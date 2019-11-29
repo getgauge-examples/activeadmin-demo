@@ -30,7 +30,7 @@ If you are using VirtualBox to manage docker machines, ensure you have enabled p
     * Guest Port: `8000`
 
 ## Building WAR
-The application can be packaged using JRuby + Warbler and generate an executable `war`. This artifact is hosted in [Bintray](https://bintray.com/). You can download the `activeadmin-demo.war` file from [here](https://bintray.com/artifact/download/gauge/activeadmin-demo/activeadmin-demo.war).
+The application can be packaged using JRuby + Warbler and generate an executable `war`. You can download the `activeadmin-demo.war` file from [here](https://github.com/getgauge-examples/activeadmin-demo/releases/tag/untagged-f0befd5494efa4baabd2).
 
 ### Prerequisites
 
